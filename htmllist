@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<title>lists</title>
+	</head>
+	<body>
+		<h1> Here is a list.</h1>
+		<ol>
+			<li>Bir</li>
+			<li>İki</li>
+			<li>Üç</li>	
+		</ol>
+		<hr/>
+		<ul>
+			<li>Doruk</li>
+			<li>Kurt</li>
+			<li>Kurod</li>
+			<li>Truk</li>	
+		</ul>
+
+
+
+
+
+
+
+
+	</body>
+</html>
