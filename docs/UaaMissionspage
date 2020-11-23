@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Our Missions</title>
+	</head>
+	<body>
+		<h1>Üsküdar American Academy</h1>
+		<a href="UaaHomepage">Home</a>
+		<a href="denemehtml">Deneme Sayfası</a>
+		<a href="P4">P4</a>
+		<h3>Our Missions</h3>
+		<ul>
+			<li>Mission1</li>
+		</ul>
+	</body>
+</html>

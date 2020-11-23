@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Hello World</title>
+	</head>
+	<body>
+		<h1>Üsküdar American Academy</h1>
+		<a href="UaaHomepage">Home</a>
+		<a href="UaaMissionspage">Our Missions</a>
+		<a href="P4">P4</a>
+		<p>This is my first paragraph.</p>
+		<p>This is my second paragraph.</p>
+		
+		<table border="2">
+			<tr>
+				<td>1</td>
+				<td>2</td>
+				<td>3</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>6</td>
+				<td>7</td>
+				<td>8</td>
+			</tr>
+		</table>
+	</body>
+</html>
+		
